@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naaru-01 
-- 👀 I’m interested in Machine learning, data structures ,algorithms, web dev, android,etc. areas .
+- 👀 I’m interested in Machine learning, data structures ,algorithms, web dev, android,etc. technologies .
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on everything I Knew !
 - 📫 How to reach me ...  nspatilme@gmail.com
