@@ -3,7 +3,7 @@
 -  👋  Hi, I’m Narayan.
 -  🌱 I’m currently Final Year Computer Engineering Student and looking for intership opportunities in Software Engineering and related fields .
 -  👀 I’m interested in Machine learning, data structures ,algorithms, web dev, android, Computer Vision, NLP, etc. technologies .
--  💞️ I’m looking to collaborate on Web, Android, ML, Computer Vision, NLP, DSALGO, etc.
+-  💞️ I’m looking to collaborate on Web, Android, ML, Computer Vision, Natural Language Processing, Data Structures and Algorithm Design, etc.
 -  📫 How to reach me...mail me@ nspatilme@gmail.com
 
 <!---
