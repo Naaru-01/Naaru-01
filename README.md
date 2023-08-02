@@ -2,7 +2,7 @@
 
 -  👋  Hi, I’m Narayan 
 -  🌱 I’m currently   Computer Engineering Graduate with Internship Experience in Software Engineering Internship @Softanic Solutions Private Limited and looking for Full Time Software Engineer opportunities.
--  👀 I’m interested in Machine learning, data structures ,algorithms, web dev, android, Computer Vision, NLP, etc. technologies .
+-  👀 I’m interested in Machine learning,cloud computing, data structures ,algorithms, web dev, android, Computer Vision, NLP, etc. technologies .
 -  💞️ I’m looking to collaborate on Web, Android, ML, Computer Vision, Natural Language Processing, Data Structures and Algorithm Design, etc.
 -  📫 Get In Touch With Me @ nspatilme@gmail.com
 
