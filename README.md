@@ -1,9 +1,6 @@
 <img src="https://user-images.githubusercontent.com/20038775/125986173-3ac9fc5e-a8d2-4fc6-b526-bb6093f8adeb.gif" align="right">
 
 -  👋  Hi, I’m Narayan 
--  🌱 I’m fresh Computer Engineering graduate with internship experience as a Software Engineering Intern @Softanic Solutions Private Limited and looking for `Software Engineering` opportunities.
--  👀 I’m interested in machine learning, cloud computing, data structures, algorithms, web dev, android, Computer Vision, NLP, etc. technologies .
--  💞️ I’m looking to collaborate on Web, Android, ML, Computer Vision, Natural Language Processing, Data Structures and Algorithm Design, etc.
 -  📫 Get In Touch With Me @ nspatilme@gmail.com
 
 <!---
